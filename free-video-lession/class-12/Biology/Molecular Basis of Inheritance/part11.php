@@ -135,26 +135,49 @@
     top: 49px; overflow-y: auto; background-color: #F9F9F9;" id="mySidebar">
         <button class="w3-bar-item w3-button w3-large w3-hide-large" onclick="w3_close()">Close &times;</button>
         <center style="position: relative;
-    top: 13px;"><a href="#" class="one">Human Reproduction</a></center><hr>
+    top: 13px;"><a href="#" class="one">Molecular Basis of Inheritance</a></center><hr>
         
         <ul style=" list-style-type: none; position: relative; top: 20px; right: 22px;">
-          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Human%20Health%20and%20Disease/part1.php">Human Reproduction Class 12 In Hindi Part-1 </a></li><br>
+         <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Molecular%20Basis%20of%20Inheritance/part1.php">Molecular Basis of Inheritance Class 12 In Hindi Part-1
+ </a></li><br>
 
-          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Human%20Health%20and%20Disease/part2.php">Human Reproduction Class 12 In Hindi Part-2 </a></li><br>
+        
+          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Molecular%20Basis%20of%20Inheritance/part2.php"> Molecular Basis of Inheritance Class 12 In Hindi Part-2 </a></li><br>
           
 
 
-          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Human%20Health%20and%20Disease/part3.php">Human Reproduction Class 12 In Hindi Part-3 </a></li><br>
+          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Molecular%20Basis%20of%20Inheritance/part3.php"> Molecular Basis of Inheritance Class 12 In Hindi Part-3 </a></li><br>
 
 
-          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Human%20Health%20and%20Disease/part4.php">Human Reproduction Class 12 In Hindi Part-4 </a></li><br>
+          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Molecular%20Basis%20of%20Inheritance/part4.php"> Molecular Basis of Inheritance Class 12 In Hindi Part-4 </a></li><br>
 
           
-          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Human%20Health%20and%20Disease/part5.php">Human Reproduction Class 12 In Hindi Part-5 </a></li><br>
+          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Molecular%20Basis%20of%20Inheritance/part5.php"> Molecular Basis of Inheritance Class 12 In Hindi Part-5 </a></li><br>
 
-          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Human%20Health%20and%20Disease/part6.php">Human Reproduction Class 12 In Hindi Part-6 </a></li><br>
+          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Molecular%20Basis%20of%20Inheritance/part6.php"> Molecular Basis of Inheritance Class 12 In Hindi Part-6 </a></li><br>
 
-                  
+
+          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Molecular%20Basis%20of%20Inheritance/part7.php"> Molecular Basis of Inheritance Class 12 In Hindi Part-7 </a></li><br>
+
+
+          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Molecular%20Basis%20of%20Inheritance/part8.php"> Molecular Basis of Inheritance Class 12 In Hindi Part-8 </a></li><br>
+
+
+          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Molecular%20Basis%20of%20Inheritance/part9.php"> Molecular Basis of Inheritance Class 12 In Hindi Part-9 </a></li><br>
+
+
+          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Molecular%20Basis%20of%20Inheritance/part10.php"> Molecular Basis of Inheritance Class 12 In Hindi Part-10 </a></li><br>
+
+
+          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Molecular%20Basis%20of%20Inheritance/part11.php"> Molecular Basis of Inheritance Class 12 In Hindi Part-11 </a></li><br>
+
+
+          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Molecular%20Basis%20of%20Inheritance/part12.php"> Molecular Basis of Inheritance Class 12 In Hindi Part-12 </a></li><br>
+
+
+          <li class="two"><a href="/educationwave/free-video-lession/class-12/Biology/Molecular%20Basis%20of%20Inheritance/part13.php"> Molecular Basis of Inheritance Class 12 In Hindi Part-13 </a></li><br>
+
+
         </ul>
 
         <br>  
@@ -212,7 +235,7 @@
           
           <div class="col-md-9 videoarea" style="position: relative;
     top: -25px;">
-            <h3>Part 1 | Human Health and Disease</h3><hr>
+            <h3 style="text-transform: uppercase;">Part 11 | Biology Molecular Basis of Inheritance</h3><hr>
 
 
            <!--  <table style="border:none; width:100%;">
@@ -224,11 +247,17 @@
            <!--  <h2>  REPRODUCTION IN ORGANISMS</h2><br> -->
 
             <div class="col-md-10 framecolor" style="position: relative; left: 20px;">
-           <iframe width="880" height="500" src="https://www.youtube.com/embed/VK5_wuqaYY4?list=PLkYB8h4Zb2JzKiPg9qqTpMbuiChq3tkx2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <h3>Human Health and Disease Class 12 In Hindi Part-1
-</h3>  <script src="https://apis.google.com/js/platform.js"></script>
+          <iframe width="880" height="500" src="https://www.youtube.com/embed/l5PfDgM9h-Q?list=PLkYB8h4Zb2JwVx45O31SrAS0AVSlfZVXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><h3>Biology Molecular Basis of Inheritance Class 12 In Hindi Part-11
+</h3> 
 
-<div style="position: relative; left: 50px;" class="g-ytsubscribe" data-channelid="UCpJpWBUT9e9UNqa7zbzFvOg" data-layout="full" data-count="hidden"></div>  <br><hr><br><br>
+
+
+            <script src="https://apis.google.com/js/platform.js"></script>
+
+<div style="position: relative; left: 50px;" class="g-ytsubscribe" data-channelid="UCpJpWBUT9e9UNqa7zbzFvOg" data-layout="full" data-count="hidden"></div>
+
+
+ <br><hr><br><br>
 
             </div>
 
